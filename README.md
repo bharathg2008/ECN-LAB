@@ -25,8 +25,12 @@
 **CIRCUIT DIAGRAM:**
 
 
+![IMG-20251015-WA0013](https://github.com/user-attachments/assets/503c9daa-8d29-46da-93f8-fc93ab3e0b2d)
 
 
+Tabulation:
+
+![IMG-20251015-WA0015](https://github.com/user-attachments/assets/136acd17-dd26-40dd-afa7-a8cfd4a19e20)
 
 
 
